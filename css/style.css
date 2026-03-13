@@ -310,7 +310,7 @@ ul, ol { list-style: none; }
   display: block;
   font-family: 'Zen Kaku Gothic New', sans-serif;
   font-weight: 900;
-  font-size: clamp(3.5rem, 8vw, 10rem);
+  font-size: clamp(4rem, 10vw, 12rem);
   line-height: 1.05;
   letter-spacing: -0.02em;
   color: transparent;
